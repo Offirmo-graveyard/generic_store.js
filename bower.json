@@ -1,23 +1,14 @@
 {
-  "name": "generic_store.js",
-  "main": "generic_store.js",
-  "version": "0.0.1",
-  "homepage": "https://github.com/Offirmo/html_tests",
-  "authors": [
-    "Offirmo <offirmo.net@gmail.com>"
-  ],
+	"name": "generic_store.js",
+	"version": "0.1.0",
 	"description": "Provides an implementation of store.js in memory for testing + a wrapper around store.js for avoiding conflicts",
-  "keywords": [
-    "store",
-    "localstorage",
-    "memory"
-  ],
+	"keywords": [
+		"store",
+		"localstorage",
+		"memory"
+	],
 	"license": "public domain",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+	"authors": [ "Offirmo <offirmo.net@gmail.com>" ],
+	"homepage": "https://github.com/Offirmo/generic_store.js",
+	"main": "generic_store.js"
 }
