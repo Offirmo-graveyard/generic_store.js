@@ -1,7 +1,12 @@
 /* A "in memory" local storage for tests
  * or special uses.
  */
-if (typeof define !== 'function') { var define = require('amdefine')(module) }
+if (typeof define !== 'function') {
+	// node.js doesn't know require.js unless we use 'amdefine' lib
+	var define = require('amdefine')(module);
+	// by the way, init global var so that store.js works
+	global.localStorage = require('localStorage');
+}
 
 define(
 [

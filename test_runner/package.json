@@ -6,6 +6,7 @@
 	"dependencies": {
 		"lodash":                  "latest",
 		"store.js":                "latest",
+		"localStorage":            "latest",
 
 		"amdefine":                "latest",
 		"chai":                    "latest",
