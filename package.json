@@ -1,0 +1,23 @@
+{
+  "name": "generic_store",
+  "version": "0.0.1",
+  "description": "Provides an implementation of store.js in memory for testing + a wrapper around store.js for avoiding conflicts",
+  "main": "generic_store.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "store",
+    "localstorage",
+    "memory"
+  ],
+  "author": "Offirmo",
+	"license": "public domain",
+	"dependencies": {
+		"lodash":                  "latest",
+		"store.js":                "latest"
+	},
+	"scripts": {
+		"test": "cd test_runner && npm install && make"
+	}
+}

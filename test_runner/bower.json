@@ -1,0 +1,13 @@
+{
+	"name": "generic_store-test-runner",
+	"version": "99.99.99",
+	"dependencies": {
+		"lodash":                  "latest",
+		"store.js":                "latest",
+
+		"chai":                    "latest",
+		"mocha":                   "latest",
+		"requirejs":               "latest",
+		"requirejs-domready":      "latest"
+	}
+}
