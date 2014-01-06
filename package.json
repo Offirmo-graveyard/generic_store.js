@@ -1,6 +1,6 @@
 	{
 	"name": "generic_store",
-	"version": "0.1.0",
+	"version": "0.2.0-alpha",
 	"description": "Provides an implementation of store.js in memory for testing + a wrapper around store.js for avoiding conflicts",
 	"keywords": "store, localstorage, memory",
 	"license": "public domain",

@@ -1,14 +1,16 @@
 generic_store.js
 ================
 
-[![Build Status](https://travis-ci.org/Offirmo/generic_store.js.png?branch=master)](https://travis-ci.org/Offirmo/generic_store.js)
+[![Build Status](https://travis-ci.org/Offirmo/generic_store.js.png?branch=master)](https://travis-ci.org/Offirmo/generic_store.js) [![status](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/badges/status.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js) [![Total views](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/counters/views.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js)
+
+IN PROGRESS - IN PROGRESS
 
 Introduction
 ------------
 
 generic_store.js wraps store.js and add :
 - an implementation in memory for safe tests or other use
-- an (optional) automatic key prefixing for avoiding conflicts
+- an (optional) automatic key prefixing for avoiding conflicts (NOT IMPLEMENTED)
 
 NOTE : ONLY set() AND get() ARE IMPLEMENTED FOR NOW !
 
@@ -19,7 +21,7 @@ In you web app, you use the convenient local storage instead of fat cookies. Of 
 you use store.js (https://github.com/marcuswestin/store.js) to access the local storage.
 
 Now there are two problems :
-- it's unsafe to unit test you app since local storage is persistent and shared
+- it's unsafe to unit test your app since local storage is persistent and shared
 - you may mess with another local storage user which use the same keys
 
 Solution :
@@ -51,6 +53,11 @@ function(GenericStore) {
 
 ```
 
+Installation
+------------
+
+Bower : `bower install generic_store.js`
+Npm : `npm install generic_store`
 
 Unit tests
 ----------
