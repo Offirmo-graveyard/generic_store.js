@@ -1,9 +1,13 @@
 generic_store.js
 ================
 
-[![Build Status](https://travis-ci.org/Offirmo/generic_store.js.png?branch=master)](https://travis-ci.org/Offirmo/generic_store.js) [![status](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/badges/status.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js) [![Total views](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/counters/views.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js)
+[![Build Status](https://travis-ci.org/Offirmo/generic_store.js.png?branch=master)](https://travis-ci.org/Offirmo/generic_store.js)
+[![NPM version](https://badge.fury.io/js/generic_store.png)](http://badge.fury.io/js/generic_store)
+[![Bower version](https://badge.fury.io/bo/generic_store.js.png)](http://badge.fury.io/bo/generic_store.js)
+[![status](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/badges/status.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js)
+[![Total views](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/counters/views.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js)
 
-IN PROGRESS - IN PROGRESS
+STILL IN PROGRESS - MISSING FEATURES - API MAY CHANGE
 
 Introduction
 ------------

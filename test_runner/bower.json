@@ -9,5 +9,8 @@
 		"mocha":                   "latest",
 		"requirejs":               "latest",
 		"requirejs-domready":      "latest"
+	},
+	"temp": {
+		"generic_store.js":        "latest"
 	}
 }
