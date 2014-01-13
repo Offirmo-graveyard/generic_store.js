@@ -2,8 +2,8 @@
 	"name": "generic_store-test-runner",
 	"version": "99.99.99",
 	"dependencies": {
-		"lodash":                  "latest",
-		"store.js":                "latest",
+		"lodash":             "~2.4",
+		"store.js":           "~1.3",
 
 		"chai":                    "latest",
 		"mocha":                   "latest",
