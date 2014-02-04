@@ -4,8 +4,11 @@ generic_store.js
 [![Build Status](https://travis-ci.org/Offirmo/generic_store.js.png?branch=master)](https://travis-ci.org/Offirmo/generic_store.js)
 [![NPM version](https://badge.fury.io/js/generic_store.png)](http://badge.fury.io/js/generic_store)
 [![Bower version](https://badge.fury.io/bo/generic_store.js.png)](http://badge.fury.io/bo/generic_store.js)
+[![Project status](http://img.shields.io/badge/project_status-highly_experimental-red.png)](http://offirmo.net/classifying-open-source-projects-status/)
+[![license](http://img.shields.io/badge/license-public_domain-brightgreen.png)](http://unlicense.org/)
 [![status](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/badges/status.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js)
 [![Total views](https://sourcegraph.com/api/repos/github.com/Offirmo/generic_store.js/counters/views.png)](https://sourcegraph.com/github.com/Offirmo/generic_store.js)
+[![Gittip](http://img.shields.io/gittip/Offirmo.png)](https://www.gittip.com/Offirmo/)
 
 STILL IN PROGRESS - MISSING FEATURES - API MAY CHANGE
 
@@ -17,6 +20,8 @@ generic_store.js wraps store.js and add :
 - an (optional) automatic key prefixing for avoiding conflicts (NOT IMPLEMENTED)
 
 NOTE : ONLY set() AND get() ARE IMPLEMENTED FOR NOW !
+
+License : public domain (http://unlicense.org/)
 
 User Story
 ----------
